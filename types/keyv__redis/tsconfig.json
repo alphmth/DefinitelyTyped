@@ -12,17 +12,17 @@
         "typeRoots": [
             "../"
         ],
-        "types": [],
         "paths": {
             "@keyv/*": [
                 "keyv__*"
             ]
         },
+        "types": [],
         "noEmit": true,
         "forceConsistentCasingInFileNames": true
     },
     "files": [
         "index.d.ts",
-        "onionoo-tests.ts"
+        "keyv__redis-tests.ts"
     ]
 }
